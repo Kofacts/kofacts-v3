@@ -27,7 +27,7 @@
       </div>
     </div>
     <div class="header-wrapper" ref="header">
-      <div id="fog" style="height:80vh !important;width:130vw !important"></div>
+      <div id="fog" style="height:80vh;width:130vw !important"></div>
       <div class="header-content">
         <h2>Obodugo Rapheal</h2>
         <div class="n-ve-50">
