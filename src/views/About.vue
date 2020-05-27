@@ -6,7 +6,7 @@
 
       <br>
 
-      This Privacy Policy governs the information Movie Suggest collects on its websites and through its online services (the “Service”). The terms “Movie Suggest” “we,” “us,” and “our” include netflixparty.com and our affiliates and subsidiaries. This Privacy Policy explains how Movie Suggest may collect, use, and disclose information we obtain through the Service.
+      This Privacy Policy governs the information Movie Suggest collects on its websites and through its online services (the “Service”). The terms “Movie Suggest” “we,” “us,” and “our” include movie suggest, and our affiliates and subsidiaries. This Privacy Policy explains how Movie Suggest may collect, use, and disclose information we obtain through the Service.
       
       
           <br><br>
