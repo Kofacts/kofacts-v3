@@ -1,5 +1,6 @@
 <template>
     <div class="sf" style="color:white">
+        <h3>Privacy Policy for Twitter Blocker </h3>
         <p>
         Your privacy is important to us. The purpose of this Privacy Policy is to assist you in understanding the purposes for which we collect, use, disclose the information or data you have provided to us or we obtain through the Extension. We are committed to protecting your privacy. Please take a moment to familiarize yourself with our privacy practices. We uses and makes all attempts to protect all information when you use our Extension.
         </p>
