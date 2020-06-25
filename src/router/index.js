@@ -14,6 +14,11 @@ const routes = [{
     name: 'About',
     component: () => import( /* webpackChunkName: "about" */ '../views/About.vue')
   },
+  {
+    path: '/twitter-blocker/privacy-policy',
+    name: 'TwitterSpam',
+    component: () => import( /* webpackChunkName: "about" */ '../views/Privacy/TSB.vue')
+  }
   // {
   //   path: '/about',
   //   name: 'About',
