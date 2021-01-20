@@ -12,7 +12,7 @@
     "arrive": "^2.4.1",
     "charming": "^3.0.2",
     "core-js": "^3.6.4",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "hover-effect": "^1.1.0",
     "jquery": "^3.5.0",
     "node-sass": "^4.14.0",
